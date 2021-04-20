@@ -1,0 +1,11 @@
+---
+application:
+  name: "next-tailwind-sample"
+  project: "testnexttailwind"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-next-tailwind-sample"
+  routes:
+  - application_name: "next-tailwind-sample"
+    paths:
+    - "/*"
